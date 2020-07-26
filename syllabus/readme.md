@@ -1,25 +1,28 @@
 # Information Technologies
 
-INFO 654-01  
+INFO 654-04
 Credits: 3  
 Day and Time: Wednesday 06:30PM - 09:20PM  
-Location: Manhattan, Room [606](https://docs.google.com/document/d/17XuVefzFW-W8zM_u0NaTcaP06S782bd1rmQ9f50igSQ/edit)
+Location: Remote!
 
-Instructor:
+Instructors:
 - Ashley Blewer (please call me "Ashley", pronouns are she/her/hers)
-- ashley.blewer at gmail dot com
-- \(803) 403-5013
+  - ashley.blewer at gmail dot com
+  - \(803) 403-5013
+- Josh Hadro (please call me "Josh", pronouns are he/him/his)
+  - josh.hadro at gmail dot com
+  - \(917) 428-4152
 
 Office Hours: by appointment
 
-**Tech Tutor(s) for Spring 2020:**  
-Email: <techtuto@pratt.edu> 
+**Tech Tutor(s) for Fall 2020:**  
+Email: <techtuto@pratt.edu>
 
 **Course Collaborative Notes**  
 - Available later
 
 **Course WordPress site:**  
-<https://commons.pratt.edu/prattsi654sp20/>
+<https://commons.pratt.edu/prattsi654fa20/>
 (invitations and logins to come)
 
 **Course hashtag**
@@ -104,13 +107,13 @@ office or see above.
 
 ## Class Schedule
 
-### January 27 --- Introduction and Information Technology Basics
+### August 26 --- Introduction and Information Technology Basics
 
 In class: We will meet each other, learn about the class, and set up WordPress blog profiles!
 
 Readings with an \* can sometimes be behind a paywall. A copy has been saved in the `/readings` folder.
 
-### February 3 --- The Internet, Networks, and Protocols
+### September 02 --- The Internet, Networks, and Protocols
 
 **Due: Technology and Service Inspiration Post 1**
 
@@ -124,7 +127,7 @@ Readings:
 - 2016-08-11. Sanna Mustelin. [Women in Programming: Erasure and Visibility](https://recompilermag.com/issues/issue-4/women-in-programming-erasure-and-visibility/) (7min)
 - 2017-03-17. Amy Wibowo. [A Career Retrospective—10 years working in tech](https://medium.com/@sailorhg/a-career-retrospective-10-years-working-in-tech-ea0bf2a29696) (17min)
 
-### February 10 --- Web Design Basics: HTML (LAB)
+### September 09 --- Web Design Basics: HTML (LAB)
 
 **Due: Reflection Post 1**
 
@@ -137,14 +140,14 @@ Readings:
 - Sir Tim Berners-Lee. [The next web](http://www.ted.com/talks/tim_berners_lee_on_the_next_web.html) (video, 16 minutes)
 - [The Evolution of the Web](http://www.evolutionoftheweb.com/?hl=en) (infographic)
 
-Option, web history:
+Optional, web history:
 - 2014-11-20. Paul Ford. [The Group That Rules The Web](http://www.newyorker.com/tech/elements/group-rules-web) (15 min)
 
 Technical resources:
 - [Mozilla web docs: Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
 - [HTML Beginner Tutorial](http://www.htmldog.com/guides/html/beginner/)
 
-### February 17 --- Web Design Basics: CSS (LAB)
+### September 16 --- Web Design Basics: CSS (LAB)
 
 Readings:
 
@@ -163,7 +166,7 @@ Bonus:
 - [How to Center in CSS](http://howtocenterincss.com/) (Because it will definitely come up!)
 - Jennifer Dewalt. [180 websites in 180 days](https://jenniferdewalt.com/) ([Background talk on this project](https://www.youtube.com/watch?v=QaSbL4sRff8))
 
-### February 24 --- File Formats and Web Design Wrap-up
+### September 23 --- File Formats and Web Design Wrap-up
 
 **Due: Technology and Service Inspiration Post 2**
 
@@ -179,7 +182,7 @@ Resources:
 - [Federal Agencies Digitization Guidelines Initiative (FADGI)](http://www.digitizationguidelines.gov/guidelines/)
 - Mailchimp. [Welcome to the Mailchimp Content Style Guide](https://styleguide.mailchimp.com/)
 
-### March 2 --- Usability, User Experience, and Universal Design
+### September 30 --- Usability, User Experience, and Universal Design
 
 **Due: Reflection Post 2**
 
@@ -201,7 +204,7 @@ Resources:
 - [9 GIFs That Explain Responsive Design Brilliantly](https://www.fastcodesign.com/3038367/9-gifs-that-explain-responsive-design-brilliantly-2)
 - [User-Centered Design for Complex Digital Objects](https://drive.google.com/file/d/0Byr1_3Ruh_oYYkZwWF9yTTlSb2M/view)
 
-### March 9 --- Structured Data, XML, and JSON (LAB)
+### October 07 --- Structured Data, XML, and JSON (LAB)
 
 Readings:
 
@@ -214,13 +217,8 @@ Readings:
 - 2018-03-28. Christine Taylor. [Structured vs. Unstructured Data](https://www.datamation.com/big-data/structured-vs-unstructured-data.html) (9 min)
 - 2014-01-17. Anthony Cocciolo. [Unix Commands and Batch Processing for the Reluctant Librarian or Archivist](https://journal.code4lib.org/articles/9158) (18 min)
 
-### March 16 --- Spring Break / NO CLASS
 
-### March 23 --- Unexpected global pandemic break
-
-- Due to COVID-19, we will not meet this week and this will be considered a 'study break' week. You can think of it as an extra week of Spring Break while we prepare to shift this class to an online format.
-
-### March 30 --- APIs and Linked Data (LAB)
+### October 14 --- APIs and Linked Data (LAB)
 
 **Due: Personal homepage**
 
@@ -235,7 +233,7 @@ Readings:
 - 2017-10-19. Mia Ridge. [Unlocking Potential: Where Next for Open Cultural Data in Museums?](http://museum-id.com/unlocking-potential-next-open-cultural-data-museums-mia-ridge/) (7 min)
 
 
-### April 6 --- Technology Law and Ethics
+### October 21 --- Technology Law and Ethics
 
 Readings:
 
@@ -254,7 +252,7 @@ Practices](https://www.aam-us.org/programs/ethics-standards-and-professional-pra
 - [ALA Code of Ethics](http://www.ala.org/tools/ethics)
 - [Mapping open source in museums](https://geealbers.github.io/mapping-open-source/network/)
 
-### April 13 --- Data analysis and visualization, and privacy/security/content moderation
+### October 28 --- Data analysis and visualization, and privacy/security/content moderation
 
 **Due: Technology and Service Inspiration Post 3**
 
@@ -273,7 +271,7 @@ information](https://orm-atlas2-prod.s3.amazonaws.com/pdf/13a07b19e01a397d8855c0
 Resources:
 - Current. Mozilla. [Data Detox Kit](https://datadetoxkit.org/en/home)
 
-### April 20 --- Content Management, Digital Asset Management, Digital Preservation
+### November 04 --- Content Management, Digital Asset Management, Digital Preservation
 
 Readings:
 
@@ -287,16 +285,20 @@ References:
 - 2013-08. Library of Congress. [Analysis of Current Digital Preservation Policies: Archives, Libraries and Museums](https://blogs.loc.gov/digitalpreservation/2013/08/analysis-of-current-digital-preservation-policies-archives-libraries-and-museums/)
 
 
-### April 27 --- Blank Technology Canvas Pitch Presentations Feedback
+### November 11 --- Blank Technology Canvas Pitch Presentations Feedback
 
 **Due: Reflection Post 3**
 **Due: Blank Technology Canvas Pitch Presentations**
 
-### May 4 --- Databases and Structured Queries (LAB)
+### November 18 --- Blank Technology Canvas Pitch Presentations Feedback
+
+### November 25 --- NO CLASS!
+
+### December 02 --- Databases and Structured Queries (LAB)
 
 Readings:
 
-- 2008-10-23. Ryan Deshamps. [What is a Database, really? Data Storage for Librarians](http://otherlibrarian.wordpress.com/2008/10/23/what-is-a-database-really-data-storage-for-librarians/) (12 min)
+- 2008-10-23. Ryan Deschamps. [What is a Database, really? Data Storage for Librarians](http://otherlibrarian.wordpress.com/2008/10/23/what-is-a-database-really-data-storage-for-librarians/) (12 min)
 - Current. Wikiversity. [Introduction to Relational Databases](https://en.wikiversity.org/wiki/Relational_Databases/Introduction) (10 min)
 - c.2009. Randy Jay Yarger, George Reese, and Tim King. [Chapter 1. Introduction to Relational Databases](http://docstore.mik.ua/orelly/linux/sql/ch01_01.htm) (10 min)
 - 2013-11-07. Noah Veltman. [SQL: The Prequel (Excel vs. Databases)](https://schoolofdata.org/2013/11/07/sql-databases-vs-excel/) (13 min)
@@ -315,7 +317,7 @@ Extra reading (useful to try in conjunction with reading directly
 above):  
 - [Introduction to SQL (Interactive Tutorial)](http://sqlzoo.net/wiki/SQL_Tutorial)
 
-### May 11 --- Information Technology of the Future, and Wrap-up
+### December 09 --- Information Technology of the Future, and Wrap-up
 
 **Due: Blank Technology Canvas Final Report Site**
 
@@ -565,7 +567,7 @@ contact the Learning/Access Center (L/AC) at LAC@pratt.edu to schedule
 an appointment to discuss these accommodations. Students with
 disabilities who have already registered with the L/AC are encouraged to
 speak to the professor about accommodations they may need to produce an
-accessible learning environment. 
+accessible learning environment.
 
 Requests for accommodation should be made as far in advance as
 reasonably possible to allow sufficient time to make any necessary
@@ -641,7 +643,7 @@ the use made of a work in any particular case is a fair use the
 factors to be considered shall include---
 
 (1) **the purpose and character of the use, including whether such use
-    is of a commercial nature or is for nonprofit educational 
+    is of a commercial nature or is for nonprofit educational
     purposes;**
 
 (2) **the nature of the copyrighted work;**
