@@ -1,13 +1,13 @@
 # Information Technologies
-# INFO 654-01
-# Spring 2020
+# INFO 654-04
+# Fall 2020
 
 ## Blank Technology Canvas Pitch Presentation (10% of total grade)
 
 
 ### Due Dates
-	Submit presentation via email: April 20  or 27 (order of presentations TBD)
-	Give presentation in class: April 20 or 27 (order of presentations TBD)
+	Submit presentation via email: November 11 (order of presentations TBD)
+	Give presentation in class: November 11 or 18 (order of presentations TBD)
 
 ### Background
 
@@ -35,4 +35,3 @@ Students will have the option of using PowerPoint, Keynote, Prezi (free educatio
 Presentations should also incorporate at least a few images (photographs, screenshots, etc.) or other multimedia in order to illustrate the proposal being described. Be sure to give attribution to any images you get from outside sources.
 
 Note: If you choose to use a tool besides PowerPoint, Keynote, Google Slides, Slides.com, or Prezi, please have it approved in advance to make sure the software is available in the classroom to support your presentation.
-

@@ -1,25 +1,29 @@
+# Information Technologies
+# INFO 654-04
+# Fall 2020
+
 **Reflection Posts (25% of total grade)**
 
 **And**
 
 **Technology and Service Inspiration Posts (10% of total grade)**
 
-**Blog URL:** <https://commons.pratt.edu/prattsi654sp20/>
+**Blog URL:** <https://commons.pratt.edu/prattsi654fa20/>
 
-Due Dates: 
+Due Dates:
 -----------
 
 **Technology & Service Inspiration Posts**
 
-- February 3
-- February 24
-- April 06
+- September 02
+- September 23
+- October 28
 
 **Reflection Posts**
 
-- February 10
-- March 02
-- April 27
+- September 09
+- September 30
+- November 18
 
 **Background**\
 Museum, Library, Archive and other information technologies are a set of
@@ -94,7 +98,7 @@ visualization applications, etc.
         -   Why should people in the information fields be paying
             attention to this particular development?
 
- **Reflection Posts** 
+ **Reflection Posts**
 =====================
 
 Students will contribute at least three significant posts to the class
@@ -227,4 +231,3 @@ Measuring Fair Use: The Four Factors:
 
 Fair Use Checklist:
 <http://copyright.columbia.edu/copyright/fair-use/fair-use-checklist/>
-

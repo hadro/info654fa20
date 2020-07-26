@@ -1,6 +1,10 @@
+# Information Technologies
+# INFO 654-04
+# Fall 2020
+
 **Personal Home Page (20% of total grade)**
 
-**Due date: March 23, 2020**
+**Due date: October 14, 2020**
 
 **Background**
 As a web-conversant 21st century information professional, a
@@ -138,4 +142,3 @@ And many other resources on the web.
 
 A variety of HTML and CSS reference materials are also available at the
 Pratt Manhattan Library.
-

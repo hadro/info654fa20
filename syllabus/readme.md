@@ -287,10 +287,10 @@ References:
 
 ### November 11 --- Blank Technology Canvas Pitch Presentations Feedback
 
-**Due: Reflection Post 3**
 **Due: Blank Technology Canvas Pitch Presentations**
 
 ### November 18 --- Blank Technology Canvas Pitch Presentations Feedback
+**Due: Reflection Post 3**
 
 ### November 25 --- NO CLASS!
 

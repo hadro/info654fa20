@@ -28,7 +28,7 @@ See you in class!
 
 Course Notes: TBA
 
-Course WordPress site:   [https://commons.pratt.edu/prattsi654fa20/](https://commons.pratt.edu/prattsi654sp20/) (invitations and logins to come)
+Course WordPress site:   [https://commons.pratt.edu/prattsi654fa20/](https://commons.pratt.edu/prattsi654fa20/) (invitations and logins to come)
 
 Course hashtag: [#INFO654](https://twitter.com/search?f=tweets&q=%23info654&src=typd) (optional)
 
