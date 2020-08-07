@@ -89,20 +89,20 @@ to:**
 1)  **Prerequisites**
 
 This is a graduate-level technology course. Although there are no
-academic prerequisites, prior to enrolling in SILS, students must be
-proficient in the skills listed in "The SILS Student Technology
+academic prerequisites, prior to enrolling in SI, students must be
+proficient in the skills listed in "The SI Student Technology
 Expectations" adopted and distributed to students since July 2006 (see
 attached at end of syllabus). The course will move along under this
-assumption and SILS faculty will provide no remedial assistance during
+assumption and SI faculty will provide no remedial assistance during
 or outside of class.
 
 2)  **Technology Tutoring**
 
-Pratt SILS offers technology tutorial assistance to students taking 654
+Pratt SI offers technology tutorial assistance to students taking 654
 and other courses. Assistance with development components of assignments
 should be directed to the tutor. The tutoring service is managed through
-the SILS office and is available 20 hours a week either by walk-in or
-appointment. For information on hours of operation, contact the SILS
+the SI office and is available 20 hours a week either by walk-in or
+appointment. For information on hours of operation, contact the SI
 office or see above.
 
 ## Class Schedule
@@ -355,7 +355,7 @@ provided below with some regularity.
 
 <http://planet.code4lib.org/>  
 <http://code4lib.org/>  
-<http://weaveux.org/\>  
+<http://weaveux.org/>  
 <http://hacklibraryschool.com/>  
 <http://www.inthelibrarywiththeleadpipe.org/>  
 <http://scholarlykitchen.sspnet.org/>  
@@ -371,6 +371,7 @@ provided below with some regularity.
 - Code4lib: <https://lists.clir.org/cgi-bin/wa?A0=CODE4LIB>
 - Current Cites: <http://currentcites.org/>
 - Above the Fold from OCLC: <http://www.oclc.org/research/publications/newsletters/abovethefold.html>
+- Humane Ingenuity: <https://buttondown.email/dancohen>
 
 **Also recommended more general publications:**
 
@@ -413,8 +414,8 @@ your instructor.
 3.  Personal Homepage (20%)
 4.  Blank Technology Canvas Presentation (10%)
 5.  Blank Technology Canvas Report (25%)
-6.  Class discussion and participation (including News of the Week,
-    In-class labs, guest speaker preparedness etc.) (10%)
+6.  News of the Week (5%)
+6.  Class discussion and participation (5%)
 
 **Reflection Posts (25%)**
 
@@ -487,6 +488,10 @@ as inspiration. Students will receive feedback on their proposed ideas
 in class before embarking on the final proposal report. A separate
 assignment sheet detailing specifications and requirements will be
 distributed in class.
+
+**News of the Week (5%)**
+
+A huge part of understanding technology is simply the ability to pay attention to new developments and connect them with relevant contexts including prior events. In order to cultivate habits of actively paying attention to technology news and connecting new stories to past contexts, students will be asked to be prepared to share one technology-related news article at the beginning of each class session and very briefly articulate the relevance of the article they've chosen.
 
 ## Pratt's Grading Scale
 
@@ -603,7 +608,7 @@ the Community Standards webpage: http://bit.ly/prattcommunitystandards.
 ## Communication
 
 The best way to contact the instructor via email
-(<ashley.blewer@gmail.com>). I will
+(<ashley.blewer@gmail.com> and <josh.hadro@gmail.com>). I will
 make every effort to respond within 24 hours during the school week,
 though there may be a delay on weekends (weekends are important for
 everyone!). Should this communication preference change, you will be
@@ -688,13 +693,13 @@ Measuring Fair Use: The Four Factors\
 Aptitude in the use of Microsoft Windows-based personal computers, the
 Microsoft Office Suite and core Internet technologies is expected prior
 to enrollment. Proficiency with the skills listed below is assumed and
-will not be taught by SILS faculty or staff. Remedial and refresher
+will not be taught by SI faculty or staff. Remedial and refresher
 texts are available in the Pratt Manhattan Library.
 
 **A. Microsoft Windows**
 
 1.  Proficiency using **Windows-based computers**. Presently, Apple
-    computers are not supported within the SILS curriculum.
+    computers are not supported within the SI curriculum.
 
 2.  **File Management** using Microsoft Windows (directories, folders,
     files, extensions, backing up files, install and uninstall
