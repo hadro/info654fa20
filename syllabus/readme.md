@@ -371,7 +371,8 @@ provided below with some regularity.
 - Code4lib: <https://lists.clir.org/cgi-bin/wa?A0=CODE4LIB>
 - Current Cites: <http://currentcites.org/>
 - Above the Fold from OCLC: <http://www.oclc.org/research/publications/newsletters/abovethefold.html>
-- Humane Ingenuity: <https://buttondown.email/dancohen>
+- Humane Ingenuity (Dan Cohen, Northeastern University Library): <https://buttondown.email/dancohen>
+- Soulful Computing by David Nuñez, MIT Museum: <https://buttondown.email/davidnunez/>
 
 **Also recommended more general publications:**
 
