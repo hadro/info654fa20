@@ -2,7 +2,7 @@
 
 Welcome to 654!  
 
-We're using Github this semester as a tool for distributing files and as a method of helping folks get more acquainted with code editors and open tools, etc.  
+We're using Github this semester as a tool for distributing files and as a method of helping folks get more acquainted with code editors and open tools, etc.
 
 See below for basic headline info, but see the [`syllabus`](syllabus) section for the formal full course information documents, and the [`assignments`](assignments) folder for the descriptions of materials you will turn in.  
 
@@ -26,7 +26,10 @@ See you in class!
 
 ---
 
-Course Notes: TBA
+Course Notes via Etherpad: <https://etherpad.wikimedia.org/p/prattsi654fa20-1>  
+\[increment last digit for subsequent class numbers, e.g. -2 for class
+session 2, -6 for class session 6, etc.\]  
+N.B. These notes are technically public, and will persist as long as Wikimedia maintains the Etherpad software. 
 
 Course WordPress site:   [https://commons.pratt.edu/prattsi654fa20/](https://commons.pratt.edu/prattsi654fa20/) (invitations and logins to come)
 
