@@ -19,7 +19,10 @@ Office Hours: by appointment
 Email: <techtuto@pratt.edu>
 
 **Course Collaborative Notes**  
-- Available later
+<https://etherpad.wikimedia.org/p/prattsi654fa20-1>  
+\[increment last digit for subsequent class numbers, e.g. -2 for class
+session 2, -6 for class session 6, etc.\]  
+N.B. These notes are technically public, and will persist as long as Wikimedia maintains the Etherpad software.
 
 **Course WordPress site:**  
 <https://commons.pratt.edu/prattsi654fa20/>
