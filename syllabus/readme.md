@@ -1,9 +1,9 @@
 # Information Technologies
 
-INFO 654-04
-Credits: 3  
-Day and Time: Wednesday 06:30PM - 09:20PM  
-Location: Remote!
+**Section**: INFO 654-04  
+**Credits**: 3  
+**Day and Time**: Wednesday 06:30PM - 09:20PM  
+**Location**: Remote!
 
 Instructors:
 - Ashley Blewer (please call me "Ashley", pronouns are she/her/hers)
