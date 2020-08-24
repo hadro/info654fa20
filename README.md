@@ -16,7 +16,8 @@ See you in class!
 
 *Day and Time*: Monday 06:30PM - 09:20PM  
 
-*Location*: Remote!
+*Location*: Remote Zoom Room (see email from us for link)
+[If zoom overall is having issues, we'll email you a link to a backup/alternative meeting plan]
 
 *Instructors*:  
 - Ashley Blewer (You can call me "Ashley", pronouns she/hers)
@@ -29,7 +30,7 @@ See you in class!
 Course Notes via Etherpad: <https://etherpad.wikimedia.org/p/prattsi654fa20-1>  
 \[increment last digit for subsequent class numbers, e.g. -2 for class
 session 2, -6 for class session 6, etc.\]  
-N.B. These notes are technically public, and will persist as long as Wikimedia maintains the Etherpad software. 
+N.B. These notes are technically public, and will persist as long as Wikimedia maintains the Etherpad software.
 
 Course WordPress site:   [https://commons.pratt.edu/prattsi654fa20/](https://commons.pratt.edu/prattsi654fa20/) (invitations and logins to come)
 

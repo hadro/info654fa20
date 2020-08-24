@@ -9,12 +9,12 @@ class: center, middle
 class: center, middle
 
 ```
-_    _      _                            _           ____  _____    ___ _
+ _    _      _                            _           ____  _____    ___ _
 | |  | |    | |                          | |         / ___||  ___|  /   | |
 | |  | | ___| | ___ ___  _ __ ___   ___  | |_ ___   / /___ |___ \  / /| | |
 | |/\| |/ _ \ |/ __/ _ \| '_ ` _ \ / _ \ | __/ _ \  | ___ \    \ \/ /_| | |
 \  /\  /  __/ | (_| (_) | | | | | |  __/ | || (_) | | \_/ |/\__/ /\___  |_|
-\/  \/ \___|_|\___\___/|_| |_| |_|\___|  \__\___/  \_____/\____/     |_(_)
+ \/  \/ \___|_|\___\___/|_| |_| |_|\___|  \__\___/  \_____/\____/     |_(_)
 
 
 
@@ -26,8 +26,9 @@ _    _      _                            _           ____  _____    ___ _
 
 **Section**: INFO 654-04  
 **Credits**: 3  
-**Day and Time**: Wednesday 06:30PM - 09:20PM  
-**Location**: Remote!
+**Day and Time**: Wednesday 06:30PM - 09:20PM  Eastern Time  
+**Location**: Remote Zoom Room (see email from us for link)
+[If zoom overall is having issues, we'll email you a link to a backup/alternative meeting plan]
 
 ## Your instructors
 
@@ -159,7 +160,7 @@ class: center, middle
 # Syllabus
 
 The canonical version of the syllabus lives in our class Github repository:
-[INFO 654-04 Syllabus](https://github.com/hadro/info654fa20/tree/master/syllabus)
+[INFO 654-04 Syllabus](https://hadro.github.io/info654fa20/syllabus/)
 
 --
 ## We'll go section by section
