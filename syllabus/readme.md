@@ -2,8 +2,9 @@
 
 **Section**: INFO 654-04  
 **Credits**: 3  
-**Day and Time**: Wednesday 06:30PM - 09:20PM  
-**Location**: Remote!
+**Day and Time**: Wednesday 06:30PM - 09:20PM  Eastern Time  
+**Location**: [Remote Zoom Room](https://pratt.zoom.us/j/92536805194?pwd=ejdsVjlNK3RrOG9QY0hicCtJZlJtZz09)! (password, if prompted is "info654"; Backup phone number to connect: +1 646 558 8656 US (New York))  
+[If zoom overall is having issues, we'll email you a link to a backup/alternative meeting plan]
 
 Instructors:
 - Ashley Blewer (please call me "Ashley", pronouns are she/her/hers)
@@ -376,6 +377,7 @@ provided below with some regularity.
 - Above the Fold from OCLC: <http://www.oclc.org/research/publications/newsletters/abovethefold.html>
 - Humane Ingenuity (Dan Cohen, Northeastern University Library): <https://buttondown.email/dancohen>
 - Soulful Computing by David Nuñez, MIT Museum: <https://buttondown.email/davidnunez/>
+- "Dig It!", a newsletter featuring digital trends and practices from museums & cultural institutions. <https://embracedigital.substack.com/p/coming-soon>
 
 **Also recommended more general publications:**
 
