@@ -216,11 +216,20 @@ Before we get to the first in-class exercise...
 ---
 class: center, middle
 
-# In-class exercise
+# In-class exercises
 
 ---
 
-## In-class exercise
+## In-class exercise 1
+
+1. Accept Slack invitation
+2. Log into Slack
+3. Send a message to the #general channel that includes your favorite emoji 🎉
+
+[http://info654fa20.slack.com/](http://info654fa20.slack.com/)
+
+---
+## In-class exercise 2
 
 1. Accept WordPress invitation
   - Confirm you have access to posting, since this is where some assignments are due
