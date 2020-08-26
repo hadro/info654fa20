@@ -148,6 +148,7 @@ class: center, middle
 ### Ashley
 ![Ashley](img/ashley-cyber.jpg "Ashley bio photo")
 
+["How did I get here?"](https://ashleyblewer.com/how-did-i-get-here.html)
 
 
 ---
