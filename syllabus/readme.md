@@ -111,11 +111,13 @@ office or see above.
 
 ## Class Schedule
 
-### August 26 --- Introduction and Information Technology Basics
+### August 26 --- [Introduction and Information Technology Basics](../slides/class_1.html)
 
 In class: We will meet each other, learn about the class, and set up WordPress blog profiles!
 
 Readings with an \* can sometimes be behind a paywall. A copy has been saved in the `/readings` folder.
+
+A list of slides will become available [here](../slides/index.html).
 
 ### September 02 --- The Internet, Networks, and Protocols
 
