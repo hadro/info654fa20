@@ -100,11 +100,28 @@ class: center, middle
 
 ## Tools
 
+- Zoom (or backup if Zoom is having issues)
 - [Slack](http://info654fa20.slack.com/)
 - [WordPress](https://commons.pratt.edu/prattsi654fa20/)
 - Slides ([remark.js](https://github.com/gnab/remark))
 - [Etherpad](https://etherpad.wikimedia.org/p/prattsi654fa20-1)
 - Good old email
+
+---
+
+## Recording class
+
+We're willing to record class sessions *upon request*.  
+So everyone should know that's a possibility, and we'll also make it clear as it is happening.
+
+Meanwhile, links to the recordings will only be made available to students in this class, and should not be shared with others or posted publicly.
+
+---
+
+Before we get to the first in-class exercise...
+
+# What questions do you have?
+
 
 ---
 
@@ -200,8 +217,8 @@ While the assignments, other than the presentation assignment, don't require gro
 # Assignments
 
 - News of the Week
-- Inspiration posts
-- Reflection posts
+- [Inspiration posts](https://hadro.github.io/info654fa20/assignments/reflection_and_inspiration_posts)
+- [Reflection posts](https://hadro.github.io/info654fa20/assignments/reflection_and_inspiration_posts#reflection-posts)
 - Personal Homepage project
 - Blank Technology Canvas project
   - Presentation
@@ -209,9 +226,9 @@ While the assignments, other than the presentation assignment, don't require gro
 
 ---
 
-Before we get to the first in-class exercise...
+Before we get to the next in-class exercise...
 
-# What questions do you have?
+# What questions do you have so far?
 
 ---
 class: center, middle
