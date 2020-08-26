@@ -100,7 +100,7 @@ class: center, middle
 
 ## Tools
 
-- Slack
+- [Slack](http://info654fa20.slack.com/)
 - [WordPress](https://commons.pratt.edu/prattsi654fa20/)
 - Slides ([remark.js](https://github.com/gnab/remark))
 - [Etherpad](https://etherpad.wikimedia.org/p/prattsi654fa20-1)
@@ -146,7 +146,7 @@ class: center, middle
 class: center, middle
 
 ### Ashley
-![Ashley](https://www.pratt.edu/bio_photo/ablewer.jpg "Ashley bio photo")
+![Ashley](img/ashley-cyber.jpg "Ashley bio photo")
 
 
 
