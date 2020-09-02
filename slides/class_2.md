@@ -51,6 +51,18 @@ background-image: url(https://imgs.6sqft.com/wp-content/uploads/2016/03/10190245
 
 ---
 
+## Late breaking news
+--
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">imagining the last few days of a failing internet. the big server farms taken offline, huge swaths of AWS &amp; cloudflare dependencies failing. link rot spreading as hosts disconnect. eventually all you can access is some professor&#39;s hobby blog and the space jam website</p>&mdash; everest (@everestpipkin) <a href="https://twitter.com/everestpipkin/status/1301051972183822337?ref_src=twsrc%5Etfw">September 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+![](./img/spacejam-now.jpg)
+
+https://spacejam.com/
+
+---
+
 class: middle, center
 
 # Readings
