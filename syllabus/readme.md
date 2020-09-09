@@ -119,7 +119,7 @@ Readings with an \* can sometimes be behind a paywall. A copy has been saved in 
 
 A list of slides will become available [here](../slides/index.html).
 
-### September 02 --- The Internet, Networks, and Protocols
+### September 02 --- [The Internet, Networks, and Protocols](../slides/class_2.html)
 
 **Due: Technology and Service Inspiration Post 1**
 
@@ -133,7 +133,7 @@ Readings:
 - 2016-08-11. Sanna Mustelin. [Women in Programming: Erasure and Visibility](https://recompilermag.com/issues/issue-4/women-in-programming-erasure-and-visibility/) (7min)
 - 2017-03-17. Amy Wibowo. [A Career Retrospective—10 years working in tech](https://medium.com/@sailorhg/a-career-retrospective-10-years-working-in-tech-ea0bf2a29696) (17min)
 
-### September 09 --- Web Design Basics: HTML (LAB)
+### September 09 --- [Web Design Basics: HTML (LAB)](../slides/class_3.html)
 
 **Due: Reflection Post 1**
 
