@@ -49,6 +49,15 @@ background-image: url(https://www.barnesandnoble.com/blog/sci-fi-fantasy/wp-cont
 (View in Chrome)
 
 ---
+
+# Readings
+
+What main take-aways did you get from these?
+
+What questions do you have?
+
+
+---
 class: center, middle
 
 # World Wide Web Review
