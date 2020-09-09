@@ -19,7 +19,7 @@ class: center, middle
 	 - Elements vs. Attributes
 - BREAK!
 - Validating Code
-- Markdown assignment
+- Working with HTML
 
 
 ---
@@ -124,6 +124,28 @@ What is this?
 
 .center[![under-construction](./img/under-construction.gif)]
 
+--
+
+What are the browsers you are familiar with?
+
+Which ones do you use every day?
+
+--
+
+What's the earliest browser you have memories of?
+
+
+---
+
+##  Blast from the past: [Lynx](https://en.wikipedia.org/wiki/Lynx_(web_browser) (1992 - )
+
+"the oldest web browser still in general use and active development"
+
+![](./img/lynx.png)
+
+(View of our syllabus on Github via Lynx browser)
+
+
 ---
 # Additional Resources
 
@@ -147,6 +169,20 @@ What is this?
 - was created for sharing documents
 
 (Fun fact from your readings: since HTML was designed for sharing 1980s physics papers, whether to include images or not was hotly debated. Can you fathom a WWW without pictures of cats?)
+
+---
+
+# HTML
+
+Separating **Document Structure** from *Style*
+
+--
+
+Why is this necessary? Why develop it this way?
+
+--
+
+(A way to visualize this: In Firefox, you can easily turn off styles for any web page. Go to "View" -> "Page Style" -> "No Style" -- just remember to toggle it back when you're done!)
 
 ---
 
@@ -227,7 +263,7 @@ or
 
 **`<element attribute="value"> `**
 
-(Called a self-closing tag or element)
+(Less common, called a self-closing tag or element)
 
 ---
 
@@ -291,6 +327,15 @@ or
 <h5></h5>
 <h6></h6>
 ```
+
+--
+# An `h1` heading
+## An `h2` heading
+### An `h3` heading
+#### An `h4` heading
+etc.
+
+
 ---
 # HTML5 Semantic elements
 
@@ -340,24 +385,12 @@ or
 - [Mozilla web docs: Tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)
 
 ---
-# Definition lists
-
-```html
-<dl>
-  <dt>Definition 1</dt>
-  <dd>Value 1</dd>
-  <dt>Definition 2</dt>
-  <dd>Value 1</dd>
-</dl>
-```
-
----
 # Lists
 
 ```html
 <ul>
 	<li>List item in an unordered list</li>
-	<li>List item 2</li>
+	<li>Another list item</li>
 </ul>
 <ol>
 	<li>List item in an ordered list</li>
@@ -370,7 +403,7 @@ or
 
 <ul>
 	<li>List item in an unordered list</li>
-	<li>List item 2</li>
+	<li>Another list item</li>
 </ul>
 <ol>
 	<li>List item in an ordered list</li>
@@ -393,6 +426,7 @@ When this appears in the code, anything between the `<!--` and the next `-->` wo
 - Everything we just covered were HTML **elements**
 - Elements can have **attributes**
 - Attributes are "key-value pairs" that fit inside HTML elements
+- Attributes are what make the Web work! It's what Vannevar Bush got super excited about, the "mesh of associative trails"
 - The next few pages are examples
 
 ---
@@ -403,6 +437,12 @@ When this appears in the code, anything between the `<!--` and the next `-->` wo
 - `a` is the HTML element
 - `href` is the attribute
 - the website is the value of the attribute
+
+--
+
+# The markup above rendered:
+
+### <a href="http://training.ashleyblewer.com">Link text</a>
 
 ---
 # Embedding images
@@ -463,13 +503,30 @@ Use these to help remember syntax and rules!
 
 ---
 
-# Markdown exercise
+# HTML exercise
+
+There are great tools out there that let you write HTML and see in real-time what it looks like.
+
+One we like is called <https://repl.it/> (works with many programming languages)
+
+(Glitch is another popular one, with similar functionality: <https://glitch.com/>)
+
+---
+
+# HTML exercise
 
 Remember the first webpage ever?
 
-Use this tool, and try playing with Markdown a bit:
+--
 
-https://daringfireball.net/projects/markdown/dingus
+Here's the URL: <http://info.cern.ch/hypertext/WWW/TheProject.html>
+
+Funny enough, the HTML on that page is actually no longer valid!
+
+As a quick exercise, using the <Repl.it> tool from the previous slide, try using the following elements to recreate the first few lines of that web page in current valid html:
+- H1: `<h1>Heading here</h1>`
+- Paragraph: `<p>Paragraph text here.</p>`
+- Anchor: `<a href="URL_here">Link text</a>`
 
 ---
 # Additional resources
