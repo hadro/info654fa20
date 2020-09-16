@@ -30,20 +30,20 @@ Drop a link on the etherpad:
 
 ---
 # Readings
-- What is code?
+- [What is code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 - Everything else
 
 ---
-# CSS
+# BREAK
 
-.center[![]({{ site.baseurl }}/img/compacdisc.gif)]
+.center[![](img/compacdisc.gif)]
 
 ---
 # Cascading
 # Style
 # Sheets
 
-.center[![]({{ site.baseurl }}/img/waterfall.gif)]
+.center[![](img/waterfall.gif)]
 
 ---
 # Cascading
@@ -55,7 +55,7 @@ Drop a link on the etherpad:
 
 - Moment of zen: [Roadtrip Sunset](https://codepen.io/a-trost/details/pXzbbq)
 
-.right[![]({{ site.baseurl }}/img/waterfall4.gif)]
+.right[![](img/waterfall4.gif)]
 
 ---
 # HTML is for structure, CSS is for design
@@ -63,14 +63,6 @@ Drop a link on the etherpad:
 - (demo on page)
 - [CSS Zen Garden](http://www.csszengarden.com/)
 - alternatively, [ashleyblewer.com](https://ashleyblewer.com)
-
----
-# Pep talk first
-
-<iframe src="https://player.vimeo.com/video/24715531" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/24715531">Ira Glass on Storytelling</a> from <a href="https://vimeo.com/thedak">David Shiyang Liu</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
-There are many different ways to do things with CSS. While HTML is more inclined to follow the best semantic practice, CSS is much more open to interpretation. This can be frustrating because there's less of a "right way" to do something.
 
 ---
 # How to put CSS on the page
