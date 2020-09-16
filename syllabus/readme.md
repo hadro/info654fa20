@@ -29,6 +29,9 @@ N.B. These notes are technically public, and will persist as long as Wikimedia m
 <https://commons.pratt.edu/prattsi654fa20/>
 (invitations and logins to come)
 
+**Assignments**
+<https://github.com/hadro/info654fa20/tree/master/assignments>  
+  
 **Course hashtag**
 [\#INFO654](https://twitter.com/search?f=tweets&q=%23info654)
 (this is optional!)
@@ -153,7 +156,7 @@ Technical resources:
 - [Mozilla web docs: Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
 - [HTML Beginner Tutorial](http://www.htmldog.com/guides/html/beginner/)
 
-### September 16 --- Web Design Basics: CSS (LAB)
+### September 16 --- [Web Design Basics: CSS (LAB)](../slides/class_4.html)
 
 Readings:
 
