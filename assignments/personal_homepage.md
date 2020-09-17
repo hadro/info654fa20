@@ -30,7 +30,7 @@ accessibility, and at least one HTML table element. The personal
 homepage should demonstrate the cumulative knowledge of coding and
 design skills covered in the course, as well as the integration of
 design considerations from other sites and examples discussed in class.
-Students will host code on Glitch, or another service of their choosing.
+Students will host code on Repl.it/Glitch, or another service of their choosing.
 
 **N.B.:** This assignment is going to take trial and error, and a good
 amount of outside reading, research, and reference tool use---so get
@@ -95,7 +95,7 @@ All pages must include:
 
 Other requirements:
 
--   At least one file must be inside of a folder
+-   At least one HTML file must be inside of a folder
 
 -   The homepage and the linked external CSS style sheet must both
     feature at least one comment in the code (i.e., HTML comment on
