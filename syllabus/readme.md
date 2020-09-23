@@ -175,7 +175,7 @@ Bonus:
 - [How to Center in CSS](http://howtocenterincss.com/) (Because it will definitely come up!)
 - Jennifer Dewalt. [180 websites in 180 days](https://jenniferdewalt.com/) ([Background talk on this project](https://www.youtube.com/watch?v=QaSbL4sRff8))
 
-### September 23 --- File Formats and Web Design Wrap-up
+### September 23 --- [File Formats and Web Design Wrap-up](../slides/class_5.html)
 
 **Due: Technology and Service Inspiration Post 2**
 
