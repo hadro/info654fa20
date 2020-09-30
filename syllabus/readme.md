@@ -191,7 +191,7 @@ Resources:
 - [Federal Agencies Digitization Guidelines Initiative (FADGI)](http://www.digitizationguidelines.gov/guidelines/)
 - Mailchimp. [Welcome to the Mailchimp Content Style Guide](https://styleguide.mailchimp.com/)
 
-### September 30 --- Usability, User Experience, and Universal Design
+### September 30 --- [Usability, User Experience, and Universal Design](../slides/class_6.html)
 
 **Due: Reflection Post 2**
 
