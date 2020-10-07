@@ -55,6 +55,18 @@ https://www.flickr.com/search/?q=scaffolding%20gaudi
 
 ---
 
+# Why?
+--
+
+We want you to be conversant in situations where structured data (XML, JSON, etc.) is most appropriate.
+
+We want you to be conversant in the vocabulary of these examples, even if you don't become an expert in all the messy syntax!
+
+Most importantly, we want you to know when you are looking at something built on top of structured data, and what the possibilities are for working with or even extending those systems.
+
+
+---
+
 # XML
 
 ---
@@ -299,6 +311,7 @@ formats:
 - SVG files
 - PDF files
 - Microsoft Office files (.docx, .xlsx, and .pptx)
+- RSS and Podcast feeds
 
 ---
 # A note on validation
@@ -328,6 +341,16 @@ A `DTD` can be seen at the top of every valid HTML page:
 
 Note this is different from the XML declaration (`<?xml version="1.0"
 encoding="utf-8"?>`) at the top of XML documents, and note how the structure is different.
+
+---
+
+# Some examples
+
+XML is all over the place out in the wild -- a few examples!:
+
+- [HTML5 Logo](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg) (all SVG graphics are xml)
+- Ebooks! (specifically, the .epub file format)
+
 
 ---
 # Additional Resources
