@@ -235,7 +235,7 @@ Readings:
 
 - 2015-02-05. Dorothea Salo. [MARC, Linked Data, and Human-Computer Asymmetry](https://web.archive.org/web/20171108034006/http://lj.libraryjournal.com/2015/02/opinion/peer-to-peer-review/marc-linked-data-and-human-computer-asymmetry-peer-to-peer-review/) (7min)
 - 2015-02-19. Matthew Hughes. [What Is An API & What Are They Good For?](http://www.makeuseof.com/tag/api-good-technology-explained/) (6 min)
-- October 2015. Philip Guo.[REST Web APIs: A Super-Simple Tutorial](http://www.pgbovine.net/rest-web-api-basics.htm) (6 min)
+- October 2015. Philip Guo.[REST Web APIs: A Super-Simple Tutorial](https://web.archive.org/web/20200318020333/http://www.pgbovine.net/rest-web-api-basics.htm) (6 min)
 - Current. White House. [WhiteHouse api-standards](https://github.com/WhiteHouse/api-standards)
 - 2012-06-16. Manu Sporny. [What is Linked Data?](http://www.youtube.com/watch?v=4x_xzT5eF5Q) (video, 12 minutes)
 - 2016-03-20. Ruth Kitchin Tillman. [An Introduction to RDF for Librarians (of a Metadata Bent)](http://ruthtillman.com/introduction-rdf-librarians-metadata/) (24 min)
