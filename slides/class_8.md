@@ -103,7 +103,20 @@ This API documentation comes with examples and a way to test out the API in the
 browser.
 
 ---
-# Activity 2: Wordnik API
+# Getting started steps
+
+1. Sign up
+2. Register an App
+3. Add the Books API (and others, if you want) to your App
+4. Return to the APIs page and select the Books API
+
+---
+# Questions
+
+
+
+---
+# (Bonus) Activity 2: Wordnik API
 
 - [https://developer.wordnik.com/docs](https://developer.wordnik.com/docs)
 
