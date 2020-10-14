@@ -213,7 +213,7 @@ Resources:
 - [9 GIFs That Explain Responsive Design Brilliantly](https://www.fastcodesign.com/3038367/9-gifs-that-explain-responsive-design-brilliantly-2)
 - [User-Centered Design for Complex Digital Objects](https://drive.google.com/file/d/0Byr1_3Ruh_oYYkZwWF9yTTlSb2M/view)
 
-### October 07 --- Structured Data, XML, and JSON (LAB)
+### October 07 --- [Structured Data, XML, and JSON (LAB)](../slides/class_7.html)
 
 Readings:
 
@@ -227,7 +227,7 @@ Readings:
 - 2014-01-17. Anthony Cocciolo. [Unix Commands and Batch Processing for the Reluctant Librarian or Archivist](https://journal.code4lib.org/articles/9158) (18 min)
 
 
-### October 14 --- APIs and Linked Data (LAB)
+### October 14 --- [APIs and Linked Data (LAB)](../slides/class_8.html)
 
 **Due: Personal homepage**
 

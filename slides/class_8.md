@@ -1,0 +1,113 @@
+This page intentionally left blank. ⬇️, ➡️, or spacebar 🛰 to start slidedeck.
+---
+class: center, middle
+
+# Welcome to Class 8!
+
+---
+
+# Agenda
+
+- Questions?
+- News of the Week
+- Readings
+- APIs and Linked Data
+- Break!
+- Working groups
+- Break!
+- Discussion
+
+
+---
+class: middle, center
+
+## Questions?
+
+
+---
+
+## News of the Week
+
+Drop a link on the etherpad:
+<https://etherpad.wikimedia.org/p/prattsi654fa20-8>
+
+---
+# Readings
+
+---
+class: middle, center
+
+# Break!
+
+---
+class: center, middle
+
+# APIs
+
+---
+# APIs
+
+### Application
+### Programming
+### Interface
+
+.right[![](img/calm-waters.gif)]
+
+---
+# What is an API?
+
+.center[![](img/cowboy_on_computer.gif)]
+
+---
+# Computers talking to computers
+
+.center[![](img/computer_e-mail.gif)]
+
+- Rules around how computers communicate
+- Used as a framework for many computer things! Like for your computer to talk
+to your printer.
+- In modern-casual terms: Rules for how you can retrieve data from websites 🤖
+
+.center[![](img/computer_e-mail.gif)]
+
+---
+# Computers talking to computers
+
+So APIs are all about computers talking to computers, but they're also an
+*abstraction layer* that allows people to easily understand how to get the data
+that they need from a computer.
+
+When you query an API (asking it to give you some data), it will always return
+data in a specific format. The data itself might change, but the arrangement of
+the data will always be the same.
+
+.center[![](img/computerhorsepics.gif)]
+
+---
+# What is an API? (video version)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ecT42O6I_WI"
+frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+# key-value pairs
+
+Like a lot of computer concepts, APIs are composed of *properties and values*
+
+---
+# Activity: The New York Times API
+
+- [https://developer.nytimes.com/apis](https://developer.nytimes.com/apis)
+
+This API documentation comes with examples and a way to test out the API in the
+browser.
+
+---
+# Activity 2: Wordnik API
+
+- [https://developer.wordnik.com/docs](https://developer.wordnik.com/docs)
+
+This API documentation comes with examples and a way to test out the API in the
+browser.
+
+---
