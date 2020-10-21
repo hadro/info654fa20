@@ -50,6 +50,11 @@ class: middle, center
 # Break!
 
 ---
+# Before we get started
+
+This class is a lot of questions to you all, and meant to be more discussion-based.
+
+Don't hesitate to stop me to ask about terms, and connections, and more.
 
 ---
 # Ethics
@@ -108,6 +113,8 @@ Why don't these seem to be working in many technology contexts?
 
 - UX/Design ethics?
 
+--
+- Software developer ethics?
 
 
 ---
@@ -137,6 +144,29 @@ The groupings Christie Koehler devised are useful:
 
 ---
 
+# Open Source
+
+What are some examples of Open Source projects?
+
+--
+
+What about at different scales:
+
+- Infrastructure
+- Enterprise
+- Personal computing
+- Other?
+
+
+---
+
+# Open Source
+
+Open Source as a means of visibility into projects:
+https://www.openhub.net/
+
+---
+
 # Copyright
 
 So, what is "public domain"?
@@ -157,6 +187,11 @@ Before we dive into intellectual property, a few bigger questions:
 So what is Copyright?
 
 `The exclusive right to make copies and distribute copies of intellectual property.`
+
+--
+
+So what is `intellectual property`?
+
 
 --
 - What do you have to do to claim copyright?
@@ -205,19 +240,9 @@ An example from a real book:
 > _No part of this publication may be reproduced or transmitted in any form or by any means, electronic or mechanical, including photocopy, recording, or any information storage and retrieval system, without permission in writing from the publisher._
 
 ---
-
 # What are First Sale, and Fair Use?
 
-They are (incredibly important!) exceptions to the exclusive rights held by copyright owners.
-
-First Sale (Section 109a):
-> _"Notwithstanding the provisions of section 106 (3), the owner of a particular copy or phonorecord lawfully made under this title, or any person authorized by such owner, is entitled, without the authority of the copyright owner, to sell or otherwise dispose of the possession of that copy or phonorecord."_
-
----
-
-# What are First Sale, and Fair Use?
-
-Fair Use:
+Fair Use ([ 17 U.S. Code § 107](https://www.law.cornell.edu/uscode/text/17/107)):
 
 > *Notwithstanding the provisions of sections 17 U.S.C. § 106 and 17 U.S.C. § 106A, the fair use of a copyrighted work, including such use by reproduction in copies or phonorecords or by any other means specified by that section, for purposes such as criticism, comment, news reporting, teaching (including multiple copies for classroom use), scholarship, or research, is not an infringement of copyright. In determining whether the use made of a work in any particular case is a fair use the factors to be considered shall include:*
 >
@@ -226,9 +251,29 @@ Fair Use:
 > - the amount and substantiality of the portion used in relation to the copyrighted work as a whole; and
 > - the effect of the use upon the potential market for or value of the copyrighted work.
 
+---
 
+# What are First Sale, and Fair Use?
+
+They are (incredibly important!) exceptions to the exclusive rights held by copyright owners.
+
+First Sale ([17 U.S. Code § 109a](https://www.law.cornell.edu/uscode/text/17/109)):
+> _"Notwithstanding the provisions of section 106 (3), the owner of a particular copy or phonorecord lawfully made under this title, or any person authorized by such owner, is entitled, without the authority of the copyright owner, to sell or otherwise dispose of the possession of that copy or phonorecord."_
 
 ---
+
+# First Sale
+
+Let's look at a real example of where this comes up in the real world.
+
+Our example -- the **Amazon Kindle Terms of Use**:
+
+https://www.amazon.com/gp/help/customer/display.html?nodeId=201014950
+
+(There are millions of other examples like this out in the world, but this one is clear and straight-forward)
+
+---
+
 
 # Copyright and Ethics
 
