@@ -23,7 +23,7 @@ Students will have the option of using PowerPoint, Keynote, Prezi (free educatio
 	- A specific description of the target user community, and the information need your site aims to address  
 	- A proposal pitch for an original space to satisfy your demographic’s information need  
 	- Technology inspirations for proposed services or offerings  
-- Submit the presentation via email (attachment or link) by November 13  
+- Submit the presentation via email (attachment or link) by November 11  
 - Give the presentation in class, which will be considered according to these criteria:  
 	- Preparedness (including use of time allotted)  
 	- Evidence of deep research in service of making a targeted and effective pitch  
