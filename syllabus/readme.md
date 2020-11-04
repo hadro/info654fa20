@@ -242,7 +242,7 @@ Readings:
 - 2017-10-19. Mia Ridge. [Unlocking Potential: Where Next for Open Cultural Data in Museums?](http://museum-id.com/unlocking-potential-next-open-cultural-data-museums-mia-ridge/) (7 min)
 
 
-### October 21 --- Technology Law and Ethics
+### October 21 --- [Technology Law and Ethics](../slides/class_9.html)
 
 Readings:
 
@@ -261,7 +261,7 @@ Practices](https://www.aam-us.org/programs/ethics-standards-and-professional-pra
 - [ALA Code of Ethics](http://www.ala.org/tools/ethics)
 - [Mapping open source in museums](https://geealbers.github.io/mapping-open-source/network/)
 
-### October 28 --- Data analysis and visualization, and privacy/security/content moderation
+### October 28 --- [Data analysis and visualization, and privacy/security/content moderation](../slides/class_10.html)
 
 **Due: Technology and Service Inspiration Post 3**
 
@@ -280,7 +280,7 @@ information](https://orm-atlas2-prod.s3.amazonaws.com/pdf/13a07b19e01a397d8855c0
 Resources:
 - Current. Mozilla. [Data Detox Kit](https://datadetoxkit.org/en/home)
 
-### November 04 --- Content Management, Digital Asset Management, Digital Preservation
+### November 04 --- [Content Management, Digital Asset Management, Digital Preservation](../slides/class_11.html)
 
 Readings:
 
