@@ -31,7 +31,7 @@ N.B. These notes are technically public, and will persist as long as Wikimedia m
 
 **Assignments**
 <https://github.com/hadro/info654fa20/tree/master/assignments>  
-  
+
 **Course hashtag**
 [\#INFO654](https://twitter.com/search?f=tweets&q=%23info654)
 (this is optional!)
@@ -303,7 +303,7 @@ References:
 
 ### November 25 --- NO CLASS!
 
-### December 02 --- Databases and Structured Queries (LAB)
+### December 02 --- [Databases and Structured Queries (LAB)](../slides/class_14.html)
 
 Readings:
 
@@ -326,7 +326,7 @@ Extra reading (useful to try in conjunction with reading directly
 above):  
 - [Introduction to SQL (Interactive Tutorial)](http://sqlzoo.net/wiki/SQL_Tutorial)
 
-### December 09 --- Information Technology of the Future, and Wrap-up
+### December 09 --- [Information Technology of the Future, and Wrap-up](../slides/class_15.html)
 
 **Due: Blank Technology Canvas Final Report Site**
 
